@@ -1,5 +1,5 @@
 ### Hi Developers 👋 
- I have a wide range of skills that include design front-end development (ReactJs, HTML5, CSS3, Javascript).
+ I have a wide range of skills that include design front-end development (ReactJs, HTML5, CSS3, Javascript). I completed my MCA at Ram Meghe College Amaravati .
  - 🔭 I’m currently working on as a Student....
  - 🌱 I’m currently learning ReactJS....
 <!--
